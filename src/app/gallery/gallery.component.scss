@@ -1,0 +1,12 @@
+
+
+
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  &__pictures{
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+}
